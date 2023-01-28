@@ -1,0 +1,11 @@
+.vscode/launch.json
+.vscode/tasks.json
+
+bin/Debug/net6.0/appsettings.Development.json
+bin/Debug/net6.0/appsettings.json
+bin/Debug/net6.0/RazorPagesMovie.deps.json
+bin/Debug/net6.0/RazorPagesMovie.dll
+bin/Debug/net6.0/RazorPagesMovie.exe
+bin/Debug/net6.0/RazorPagesMovie.pdb
+bin/Debug/net6.0/RazorPagesMovie.runtimeconfig.json
+bin/Debug/net6.0/RazorPagesMovie.staticwebassets.runtime.json
